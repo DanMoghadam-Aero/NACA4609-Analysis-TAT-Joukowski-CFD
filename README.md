@@ -13,7 +13,7 @@ The objective of this study is to rigorously evaluate, compare, and contrast the
 * **Limitations of Inviscid Theory:** As the angle of attack increases, the classical models fail to capture viscous effects and adverse pressure gradients, mathematically predicting the growth of lift beyond the physical stall regime.
 * **Stall Prediction:** The viscous CFD successfully captures the onset of trailing-edge separation at $\alpha = 15^\circ$ and deep stall at $\alpha = 20^\circ$. 
 
-Ultimately, this comparative investigation highlights the relevance and utility of classical inviscid theories for rapid conceptual design, while explicitly defining the limits where conducting full viscous CFD becomes necessary.
+Ultimately, this comparative investigation highlights the relevance and utility of classical inviscid theories for rapid conceptual design, while explicitly defining the limits where full viscous CFD becomes necessary.
 
 ## Repository Structure
 * `/MATLAB_Solvers`: Contains the custom TAT Graphical User Interface (GUI) and Joukowski mapping scripts.
